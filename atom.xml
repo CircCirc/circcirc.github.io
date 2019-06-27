@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://circchow.github.io/</id>
+    <id>https://circcirc.github.io/</id>
     <title>CircChow</title>
-    <updated>2019-06-17T13:44:29.129Z</updated>
+    <updated>2019-06-27T14:25:19.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://circchow.github.io/"/>
-    <link rel="self" href="https://circchow.github.io//atom.xml"/>
+    <link rel="alternate" href="https://circcirc.github.io/"/>
+    <link rel="self" href="https://circcirc.github.io//atom.xml"/>
     <subtitle>Wubba Lubba Dub-Dub</subtitle>
-    <logo>https://circchow.github.io//images/avatar.png</logo>
-    <icon>https://circchow.github.io//favicon.ico</icon>
+    <logo>https://circcirc.github.io//images/avatar.png</logo>
+    <icon>https://circcirc.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, CircChow</rights>
     <entry>
         <title type="html"><![CDATA[Debut]]></title>
-        <id>https://circchow.github.io//post/debut</id>
-        <link href="https://circchow.github.io//post/debut">
+        <id>https://circcirc.github.io//post/debut</id>
+        <link href="https://circcirc.github.io//post/debut">
         </link>
         <updated>2019-06-17T13:41:23.000Z</updated>
         <content type="html"><![CDATA[<p>707 来到了 Gayhub！</p>
