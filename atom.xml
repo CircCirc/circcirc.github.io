@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circcirc.github.io/</id>
     <title>CircCirc</title>
-    <updated>2019-06-27T15:09:59.525Z</updated>
+    <updated>2019-06-27T15:12:09.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://circcirc.github.io/"/>
     <link rel="self" href="https://circcirc.github.io//atom.xml"/>
@@ -26,7 +26,7 @@ SSR=<a href="https://github.com/shadowsocksr-backup/shadowsocksr-android/release
         <link href="https://circcirc.github.io//post/debut">
         </link>
         <updated>2019-06-17T13:41:23.000Z</updated>
-        <content type="html"><![CDATA[<p>707 来到了 Gayhub！</p>
+        <content type="html"><![CDATA[<p>来到了 Gayhub！</p>
 ]]></content>
     </entry>
 </feed>
