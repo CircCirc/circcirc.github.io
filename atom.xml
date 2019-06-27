@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circcirc.github.io/</id>
-    <title>CircChow</title>
-    <updated>2019-06-27T14:27:22.719Z</updated>
+    <title>CircCirc</title>
+    <updated>2019-06-27T14:28:17.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://circcirc.github.io/"/>
     <link rel="self" href="https://circcirc.github.io//atom.xml"/>
     <subtitle>Wubba Lubba Dub-Dub</subtitle>
     <logo>https://circcirc.github.io//images/avatar.png</logo>
     <icon>https://circcirc.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, CircChow</rights>
+    <rights>All rights reserved 2019, CircCirc</rights>
     <entry>
         <title type="html"><![CDATA[Debut]]></title>
         <id>https://circcirc.github.io//post/debut</id>
