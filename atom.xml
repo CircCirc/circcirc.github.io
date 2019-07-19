@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circcirc.github.io/</id>
     <title>Circ²</title>
-    <updated>2019-07-19T11:54:34.331Z</updated>
+    <updated>2019-07-19T11:55:45.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://circcirc.github.io/"/>
     <link rel="self" href="https://circcirc.github.io//atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2019, Circ²</rights>
     <entry>
         <title type="html"><![CDATA[致富手册]]></title>
-        <id>https://circcirc.github.io//post/zhi-fu-shou-ce</id>
-        <link href="https://circcirc.github.io//post/zhi-fu-shou-ce">
+        <id>https://circcirc.github.io//post/guidetofan</id>
+        <link href="https://circcirc.github.io//post/guidetofan">
         </link>
         <updated>2019-06-27T14:32:58.000Z</updated>
         <content type="html"><![CDATA[<p><em><strong>名称解释</strong></em></p>
