@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circcirc.github.io/</id>
     <title>Circ²</title>
-    <updated>2019-07-19T11:55:45.741Z</updated>
+    <updated>2019-07-19T15:15:57.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://circcirc.github.io/"/>
     <link rel="self" href="https://circcirc.github.io//atom.xml"/>
@@ -12,20 +12,18 @@
     <rights>All rights reserved 2019, Circ²</rights>
     <entry>
         <title type="html"><![CDATA[致富手册]]></title>
-        <id>https://circcirc.github.io//post/guidetofan</id>
-        <link href="https://circcirc.github.io//post/guidetofan">
+        <id>https://circcirc.github.io//post/richtools</id>
+        <link href="https://circcirc.github.io//post/richtools">
         </link>
         <updated>2019-06-27T14:32:58.000Z</updated>
-        <content type="html"><![CDATA[<p><em><strong>名称解释</strong></em></p>
+        <content type="html"><![CDATA[<h1 id="名称解释"><strong>名称解释</strong></h1>
 <p><strong>SS</strong> 的全称是 Shadowsocks，是一种加密的传输方式（一种基于 SOCKS5 代理方式的网络数据加密传输包，作用在传输层和应用层之间为用户提供代理服务）。<a href="https://shadowsocks.org">官网</a></p>
 <p><strong>SSR</strong>（全称 ShadowsocksR ）是 SS 的修改版，也算是增强版，是在 SS 的基础上做了些功能的增加和修改。<a href="https://zh.wikipedia.org/wiki/Shadowsocks#ShadowsocksR">维基</a></p>
 <p><strong>V2Ray</strong>，V2Ray 是一个模块化的代理软件包，它的目标是提供常用的代理软件模块，简化网络代理软件的开发。<a href="https://www.v2ray.com">官网</a></p>
-<pre><code>
-</code></pre>
-<p><em><strong>下载地址</strong></em></p>
+<h1 id="下载地址"><strong>下载地址</strong></h1>
 <p>SS</p>
 <ul>
-<li><a href="https://github.com/shadowsocks">Shadowsocks各端</a></li>
+<li><a href="https://github.com/shadowsocks">Shadowsocks 各端</a></li>
 </ul>
 <p>SSR</p>
 <ul>
@@ -38,9 +36,7 @@
 <li><a href="https://github.com/v2ray/v2ray-core/releases">V2Ray</a></li>
 </ul>
 <p>iOS App Store 搜索 Shadowrocket、Potatso Lite等</p>
-<pre><code>
-</code></pre>
-<p><em><strong>节点</strong></em></p>
+<h1 id="节点"><strong>节点</strong></h1>
 <p>想要富强，还得需要在SS 客户端中添加正常可用的 SS 信息，其他同理可得。<br>
 <em>[略]</em></p>
 ]]></content>
