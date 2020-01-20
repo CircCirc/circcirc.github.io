@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circcirc.github.io/</id>
     <title>Circ²</title>
-    <updated>2020-01-19T17:45:29.402Z</updated>
+    <updated>2020-01-20T09:37:22.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://circcirc.github.io/"/>
     <link rel="self" href="https://circcirc.github.io/atom.xml"/>
@@ -31,7 +31,7 @@
 <td style="text-align:center"><a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases">猛击</a></td>
 <td style="text-align:center"><a href="https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases">猛击</a></td>
 <td style="text-align:center"><a href="https://github.com/shadowsocksr-backup/shadowsocksr-android/releases">猛击</a></td>
-<td style="text-align:center">搜索 PotatsoLite Shadowrocket Quantumult</td>
+<td style="text-align:center">搜索 Outline Shadowrocket Quantumult</td>
 </tr>
 </tbody>
 </table>
