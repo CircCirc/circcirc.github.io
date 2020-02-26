@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circcirc.github.io/</id>
     <title>Circ²</title>
-    <updated>2020-02-09T07:54:54.770Z</updated>
+    <updated>2020-02-26T03:46:04.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://circcirc.github.io/"/>
     <link rel="self" href="https://circcirc.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, Circ²</rights>
     <entry>
         <title type="html"><![CDATA[断网备份]]></title>
-        <id>https://circcirc.github.io/post/backupssr</id>
-        <link href="https://circcirc.github.io/post/backupssr">
+        <id>https://circcirc.github.io/post/backupssr/</id>
+        <link href="https://circcirc.github.io/post/backupssr/">
         </link>
         <updated>2020-01-19T13:50:34.000Z</updated>
         <content type="html"><![CDATA[<p><img src="https://circcirc.github.io//post-images/1581234343927.jpeg" alt="" loading="lazy"><br>
@@ -29,9 +29,9 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases">猛击</a></td>
-<td style="text-align:center"><a href="https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases">猛击</a></td>
-<td style="text-align:center"><a href="https://github.com/shadowsocksr-backup/shadowsocksr-android/releases">猛击</a></td>
+<td style="text-align:center"><a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases"><strong>猛击</strong></a></td>
+<td style="text-align:center"><a href="https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases"><strong>猛击</strong></a></td>
+<td style="text-align:center"><a href="https://github.com/shadowsocksr-backup/shadowsocksr-android/releases"><strong>猛击</strong></a></td>
 <td style="text-align:center">搜索 Outline Shadowrocket Quantumult</td>
 </tr>
 </tbody>
